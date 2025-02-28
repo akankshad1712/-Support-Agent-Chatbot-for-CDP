@@ -1,0 +1,6 @@
+{
+  "comparison": {
+    "Segment": "Segment uses event-based tracking and traits to create user segments.",
+    "Lytics": "Lytics uses machine learning models to generate behavioral audience segments."
+  }
+}
